@@ -34,6 +34,6 @@ lib.registerContext({
     }
   })
 
-  RegisterCommand('fps2', function()
+  RegisterCommand('fps', function()
     lib.showContext('cs_fps_menu')
   end)
